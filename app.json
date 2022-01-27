@@ -1,8 +1,8 @@
 {
-    "name": "Spyro",
-    "description": " Whatsapp bot.",
+    "name": "JINN-SER",
+    "description": "User-bot",
     "keywords": [
-        "Spyro",
+        "JINN-SER",
         "bot"
     ],
     "stack": "container",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "sᴘͥʏͭʀᷤᴏ,sᷟᴇͤ͜ʀ"
+            "value": "Jinn,xd"
         },
         "DISABLE_BOT":{
          "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
